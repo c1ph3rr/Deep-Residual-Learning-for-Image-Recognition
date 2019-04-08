@@ -1,2 +1,5 @@
 # Deep-Residual-Learning-for-Image-Recognition
-Implementation of https://arxiv.org/pdf/1512.03385.pdf
+
+<h4>Architecture</h4>
+
+![alt text](/resnet.png "resnet")
